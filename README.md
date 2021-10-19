@@ -1,2 +1,2 @@
 # dio-desafio-github
-Reforçando o GitHub
+Reforçando o Git/GitHub
